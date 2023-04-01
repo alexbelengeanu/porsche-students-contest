@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#folder for the project
+dataset
+coco-related
+runs/detect/train*
+yolov8n.pt
+yolov8s.pt
+yolov8m.pt
