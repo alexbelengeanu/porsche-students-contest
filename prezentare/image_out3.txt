@@ -1,0 +1,2 @@
+crosswalk 1
+warning, pe langa trecere
